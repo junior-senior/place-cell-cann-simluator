@@ -1,6 +1,6 @@
 Jacob Elliot Senior - 12001071
 To run the Simulation, either open the project in Netbeans and run using the Main class
-OR click on J.SeniorCSCPlaceCells->dist->Nodes.jar will run the program without the code.
+OR click on J.SeniorCSCPlaceCells->dist->Nodes.jar will run the program.
 
 Two possible errors:
 After training no chance in CANN Activation: Position needs selecting via buttons or clicking on the environment.
